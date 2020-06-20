@@ -1,2 +1,2 @@
-config:
+myconfig:
   myinfo: "config info for dev(master)"
